@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework8q1s2\homework8q1s2\searchtree.h(204): warning C4715: 'SearchTree<int>::level': not all control paths return a value
+c:\users\josep\documents\visual studio 2015\projects\homework8q1s2\homework8q1s2\searchtree.h(179): warning C4715: 'SearchTree<int>::findSmallest': not all control paths return a value
+  Homework8Q1S2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework8Q1S2\Debug\Homework8Q1S2.exe
+  Homework8Q1S2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework8Q1S2\Debug\Homework8Q1S2.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  Students.cpp
+  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework10q1s2\homework10q1s2\source.cpp(79): error C2228: left of '.getId' must have class/struct/union
+c:\users\josep\documents\visual studio 2015\projects\homework10q1s2\homework10q1s2\source.cpp(85): error C3867: 'Students::getId': non-standard syntax; use '&' to create a pointer to member
+  Generating Code...

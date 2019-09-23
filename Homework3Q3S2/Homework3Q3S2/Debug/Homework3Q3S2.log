@@ -1,0 +1,5 @@
+﻿  Polygon.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework3q3s2\homework3q3s2\polygon.cpp(22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\josep\documents\visual studio 2015\projects\homework3q3s2\homework3q3s2\polygon.cpp(25): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Homework3Q3S2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework3Q3S2\Debug\Homework3Q3S2.exe
+  Homework3Q3S2.vcxproj -> C:\Users\josep\Documents\Visual Studio 2015\Projects\Homework3Q3S2\Debug\Homework3Q3S2.pdb (Full PDB)

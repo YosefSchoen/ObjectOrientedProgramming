@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\josep\documents\visual studio 2015\projects\homework4q1s2\homework4q1s2\source.cpp(71): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\josep\documents\visual studio 2015\projects\homework4q1s2\homework4q1s2\source.cpp(80): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+c:\users\josep\documents\visual studio 2015\projects\homework4q1s2\homework4q1s2\source.cpp(37): warning C4715: 'findAccount': not all control paths return a value
+Account.obj : error LNK2001: unresolved external symbol "private: static int Account::sumWithdraw" (?sumWithdraw@Account@@0HA)
+Account.obj : error LNK2001: unresolved external symbol "private: static int Account::sumDeposit" (?sumDeposit@Account@@0HA)
+Source.obj : error LNK2019: unresolved external symbol "class Clock __cdecl c(void)" (?c@@YA?AVClock@@XZ) referenced in function "void __cdecl printTransaction(class Account,enum action)" (?printTransaction@@YAXVAccount@@W4action@@@Z)
+C:\Users\josep\documents\visual studio 2015\Projects\Homework4Q1S2\Debug\Homework4Q1S2.exe : fatal error LNK1120: 3 unresolved externals
